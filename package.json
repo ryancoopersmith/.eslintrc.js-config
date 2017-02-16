@@ -1,0 +1,19 @@
+{
+  "name": "eslint_config",
+  "version": "1.0.0",
+  "description": "Javascript linter",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.1",
+    "eslint-plugin-react": "^6.9.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "eslint-config-standard": "^6.2.1"
+  }
+}
