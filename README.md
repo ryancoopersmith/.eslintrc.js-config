@@ -1,2 +1,2 @@
-This is my Javascript ES6 linter setup configured for using React, promises
-and, many other dependencies necessary to run a React application.
+# What is this?
+This is my eslint config set up for using ES6, React and promises.
